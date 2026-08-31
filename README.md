@@ -1,8 +1,7 @@
-# Review Đất Nền & Nghỉ Dưỡng Sa Pa
-Hệ thống website vệ tinh SEO cho **LaoCaiView.vn** vận hành trên nền tảng **GitHub Pages**.
+# Cẩm Nang Du Lịch Sa Pa Lễ 2/9 - Vé Cáp Treo Fansipan & Bán Khách Sạn Sa Pa
 
-## 🚀 Hướng Dẫn Triển Khai Lên GitHub Pages:
-1. Đăng ký/Đăng nhập tài khoản tại nền tảng `GitHub Pages`.
-2. Tạo dự án mới và liên kết với thư mục này (`satellites/01-github-batdongsan-sapa`).
-3. Chọn chế độ triển khai: **Static HTML / No Build Command**.
-4. Website sẽ tự động hoạt động tại tên miền: `https://batdongsansapa-review.github.io`.
+- **Trang chủ chính thức**: [https://laocaiview.vn](https://laocaiview.vn)
+- **Trang đặt vé cáp treo**: [https://laocaiview.vn/ve-cap-treo-sa-pa](https://laocaiview.vn/ve-cap-treo-sa-pa)
+- **Trang bất động sản & khách sạn**: [https://laocaiview.vn/bat-dong-san](https://laocaiview.vn/bat-dong-san)
+- **Hotline**: 0918.153.986
+- **Zalo**: https://zalo.me/0918153986
